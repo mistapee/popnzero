@@ -1,7 +1,7 @@
 # popnzero
 Pop'n controller set out for 1u keys
 
-Without discount hunting 10 PCBs from JLC, Gaterons, Caps and a clone Rp2040 zero from Ali - currently less than £6 ea. a decent kids soldering project...
+- without discount hunting 10 PCBs from JLC, Gaterons, Caps and a clone Rp2040 zero from Ali - currently less than £6 ea. a decent kids soldering project...
 
 2 types of single PCB, and a dual layer LED version. This will take some time to fill with all the files as I wouldn't give what's needed to get them made without having some to show they work
 
