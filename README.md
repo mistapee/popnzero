@@ -11,7 +11,7 @@ Pop'n controller set out for 1u keys
 
 i've known plenty of people play AC dumps right on their keyboard. we can do better surely?
 
-this is the choc low profile version - i've not updated my models to include the caps for this one
+this is the choc low profile version - i've not updated my models to include the caps for this one. actually buying caps for low profile isn't great as they cost a fair bit with little choice especially if you're trying to have the right colours.
 <img width="35%" height="35%" alt="3D_PCB2_2026-01-04 (5)" src="https://github.com/user-attachments/assets/03a328be-b2fa-42c9-9198-333771f9cfaf" />
 <img width="35%" height="35%" alt="3D_PCB2_2026-01-04 (6)" src="https://github.com/user-attachments/assets/e5977531-3d18-4c0a-ba7a-245e679c0200" />
 
