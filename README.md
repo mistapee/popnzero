@@ -1,7 +1,48 @@
 # popnzero
 Pop'n controller set out for 1u keys
 
-- without discount hunting 10 PCBs from JLC, Gaterons, Caps and a clone Rp2040 zero from Ali - currently less than £6 ea. a decent kids soldering project...
+![20260212_041912 - Copy](https://github.com/user-attachments/assets/9f1365c6-38a9-44fd-b92d-778f5eeab0ee)
+
+
+We went and ordered the pcb+plate design with RGB LEDs and keyswitch LEDs, the design is 13.7cmx7.7cm and we're very happy with the results. The layout is angled the same as other controllers, but with appropriate spacing to find your way around the pad while gaming - for instance, the fight board caps we used on the larger controller look amazing on this, but, it loses the spacing and actually playing with it is a nightmare turning it in to a novelty which is everything we wanted to avoid.
+
+
+![20260212_041939](https://github.com/user-attachments/assets/a2de53e8-954a-4593-96f3-1ed674122d4d)
+
+
+GPIO used, for technical infos for GP2040-CE or whatever:
+0 - aux switch
+1 - rgb led
+2 - btn8
+3 - led 8
+4 - btn 9
+5 - led 9
+6 - btn 7
+7 - led 7
+8 - btn 6
+9 - led 6
+10 - btn 5
+11 - led 5
+12 - btn 4
+13 - led 4
+14 - btn 3
+15 - led 3
+26 - btn 1
+27 - led 1
+28 - btn 2
+29 - led 2
+
+5v - to rgb leds
+gnd - connected to gnd plane
+3v3 - unused
+
+
+
+![20260211_163613](https://github.com/user-attachments/assets/1e847bb0-2116-4d36-8ebb-16ec4cec14e8)
+
+
+
+-everything below is old and we will come back to
 
 2 types of single PCB, and a dual layer LED version. This will take some time to fill with all the files as I wouldn't give what's needed to get them made without having some to show they work
 
