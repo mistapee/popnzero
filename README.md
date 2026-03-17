@@ -1,3 +1,8 @@
+small update - added test 3d print file for a case, i can't actually print it, and some of the sizes are going to cause some printers to struggle, i find places like JLC won't even attempt these. please let me know if you want custom changes to help you out
+
+![popnzerocase1preview](https://github.com/user-attachments/assets/ae75c517-dc24-4d3f-b02b-a3e8eda2aa13)
+
+
 # popnzero
 Pop'n controller set out for 1u keys
 
