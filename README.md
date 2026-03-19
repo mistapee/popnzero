@@ -1,3 +1,6 @@
+
+![s-l1600 (4)](https://github.com/user-attachments/assets/20645ba4-4632-45ad-8b46-0d69ea898d43)
+
 small update - added test 3d print file for a case, i can't actually print it, and some of the sizes are going to cause some printers to struggle, i find places like JLC won't even attempt these. please let me know if you want custom changes to help you out
 
 ![popnzerocase1preview](https://github.com/user-attachments/assets/ae75c517-dc24-4d3f-b02b-a3e8eda2aa13)
@@ -6,7 +9,8 @@ small update - added test 3d print file for a case, i can't actually print it, a
 # popnzero
 Pop'n controller set out for 1u keys
 
-![20260212_041912 - Copy](https://github.com/user-attachments/assets/9f1365c6-38a9-44fd-b92d-778f5eeab0ee)
+
+![s-l1600 (2)](https://github.com/user-attachments/assets/579d334c-9287-4552-be6d-75fcfaf84ab7)
 
 
 We went and ordered the pcb+plate design with RGB LEDs and keyswitch LEDs, the design is 13.7cmx7.7cm and we're very happy with the results. The layout is angled the same as other controllers, but with appropriate spacing to find your way around the pad while gaming - for instance, the fight board caps we used on the larger controller look amazing on this, but, it loses the spacing and actually playing with it is a nightmare turning it in to a novelty which is everything we wanted to avoid.
