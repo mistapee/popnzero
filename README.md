@@ -1,5 +1,6 @@
 
 ![s-l1600 (4)](https://github.com/user-attachments/assets/20645ba4-4632-45ad-8b46-0d69ea898d43)
+20gbp on ebay. sourcing the keycaps was a proper arse ache frankly.
 
 small update - added test 3d print file for a case, i can't actually print it, and some of the sizes are going to cause some printers to struggle, i find places like JLC won't even attempt these. please let me know if you want custom changes to help you out
 
